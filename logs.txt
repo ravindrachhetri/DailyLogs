@@ -1,0 +1,10 @@
+31st August '17
+GIT:
+	Download repositery
+	initializing git
+	staging area
+	comparing commitments: git diff
+	git branch
+	merging branch 
+	commiting: git commit
+
