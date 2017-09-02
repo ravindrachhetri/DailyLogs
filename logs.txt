@@ -7,4 +7,14 @@ GIT:
 	git branch
 	merging branch 
 	commiting: git commit
-
+1st September '17
+GIHUB/GITLAB
+	Download / Clone repository
+	git remote
+	fork
+	git push
+	git pull
+	git fetch
+	git branch -a
+	git merge
+	ssh-keygen
